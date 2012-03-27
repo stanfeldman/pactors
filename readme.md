@@ -1,7 +1,7 @@
 # Python actors library
 
 # Usage
-	from pactors import Actor
+	from pactors.core import Actor
 	
 	class MyActor(Actor):
 		def __init__(self, name):

@@ -5,13 +5,13 @@ except:
 	pass
 
 setup(
-    name = "putils",
-    version = "0.0.3",
+    name = "pactors",
+    version = "0.0.1",
     author = "Stanislav Feldman",
-    description = ("Python utils"),
-    url = "https://github.com/stanislavfeldman/putils",
-    keywords = "utils singleton dict ternary filesystem",
-    packages=['putils'],
+    description = ("Python actors library"),
+    url = "https://github.com/stanislavfeldman/pactors",
+    keywords = "utils actors",
+    packages=['pactors'],
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Topic :: Software Development"
